@@ -1,7 +1,7 @@
 ### Hi there, this is Siddharth Tiwari here and Welcome to my Github 👋
 
 ## I'm a
-- 🔭 Computer Science Student currently doing my Bachelors @ Medi-Caps University
+- 🔭 Computer Science Student currently doing my Bachelors at Medi-Caps University
 - 👯 Developer currently looking to gain required knowledge and experience in this field
 
 ### Connect with me:
