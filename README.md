@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthkt45" alt="siddharthkt45" /> </p>
 
 ## I'm a
-- 🔭 Computer Science Student currently doing my Bachelors at Medi-Caps University
+- 🔭 Final Year Computer Science Student currently pursuing my Bachelors at Medi-Caps University
 - 👯 Developer currently looking to gain required knowledge and experience in this field
 
 ### Connect with me:
