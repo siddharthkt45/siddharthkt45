@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthkt45" alt="siddharthkt45" /> </p>
 
 ## I'm a
-- 🔭 Final Year Computer Science Student currently pursuing my Bachelors at Medi-Caps University
+- 💼 Currently working as a Java Data Engineer in Tata Consultancy Services
+- 🔭 Pursued my Bachelors at Medi-Caps University
 - 👯 Developer currently looking to gain required knowledge and experience in this field
 
 ### Languages and Tools:
